@@ -35,7 +35,7 @@ const About = () => {
             <div className="w-20 h-1 bg-emerald-600 mb-6"></div>
 
             <p className="text-gray-600 mb-6">
-              Founded in 2011, Resto has been serving the people of Dhaka with authentic Bangladeshi cuisine reimagined
+              Founded in 2010, Resto has been serving the people of Dhaka with authentic Bangladeshi cuisine reimagined
               through a contemporary lens. Our journey began with a simple mission: to create a dining experience that
               honors traditional flavors while embracing modern culinary techniques.
             </p>
